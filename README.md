@@ -30,7 +30,7 @@ For the structure, I prefer to have a Page folder, like in NextJS, and a sharedC
 
 ## Installation
 Clone the repository.   
-Launch yarn install.  
+Launch npm install.  
 Add your API url in Core/config.js
 
 The scripts available are in packages.json. For exemple, to start the local server, you can launch "razzle start --type=spa"
