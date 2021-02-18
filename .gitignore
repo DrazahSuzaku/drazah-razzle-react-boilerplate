@@ -11,4 +11,4 @@ build
 .env.test.local
 .env.production.local
 .storybook
-.cache
+.cache/razzle-babel-loader
